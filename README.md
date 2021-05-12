@@ -1,5 +1,6 @@
-**# Hindi-Character-recognition
-Hindi character recognition using CNN and CNN + SVM **
+# **Hindi-Character-recognition**
+
+Hindi character recognition using CNN and CNN + SVM 
 
 Dataset link for .csv format -https://www.kaggle.com/rishianand/devanagari-character-set
 
